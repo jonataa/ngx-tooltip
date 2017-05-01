@@ -23,16 +23,16 @@
     "angular2-tooltip"
   ],
   "peerDependencies": {
-    "@angular/core": "^4.1.0"
+    "@angular/core": "4.0.2"
   },
   "devDependencies": {
-    "@angular/common": "^4.0.2",
-    "@angular/compiler": "^4.0.2",
-    "@angular/compiler-cli": "^4.0.2",
-    "@angular/core": "^4.0.2",
-    "@angular/forms": "^4.0.2",
-    "@angular/platform-browser": "^4.0.2",
-    "@angular/platform-browser-dynamic": "^4.0.2",
+    "@angular/common": "4.0.2",
+    "@angular/compiler": "4.0.2",
+    "@angular/compiler-cli": "4.0.2",
+    "@angular/core": "4.0.2",
+    "@angular/forms": "4.0.2",
+    "@angular/platform-browser": "4.0.2",
+    "@angular/platform-browser-dynamic": "4.0.2",
 
     "@types/node": "^7.0.0",
     "bootstrap": "^3.3.7",
