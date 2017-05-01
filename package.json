@@ -23,7 +23,7 @@
     "angular2-tooltip"
   ],
   "peerDependencies": {
-    "@angular/core": "^4.0.2"
+    "@angular/core": "^4.1.0"
   },
   "devDependencies": {
     "@angular/common": "^4.0.2",
