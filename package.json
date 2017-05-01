@@ -1,20 +1,20 @@
 {
-  "name": "ngx-tooltip",
-  "version": "0.0.9",
+  "name": "ngx-tooltip-gebeco",
+  "version": "0.0.10",
   "description": "Simple tooltip control for your angular2 applications using bootstrap3.",
   "license": "MIT",
   "readmeFilename": "README.md",
   "private": true,
   "author": {
-    "name": "Umed Khudoiberdiev",
-    "email": "pleerock.me@gmail.com"
+    "name": "Gebeco",
+    "email": "dev@gebeco.de"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/pleerock/ngx-tooltip.git"
+    "url": "https://github.com/gebeco/ngx-tooltip.git"
   },
   "bugs": {
-    "url": "https://github.com/pleerock/ngx-tooltip/issues"
+    "url": "https://github.com/gebeco/ngx-tooltip/issues"
   },
   "tags": [
     "tooltip",
